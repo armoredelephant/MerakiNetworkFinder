@@ -1,6 +1,6 @@
 # MerakiNeworkFinder
 
-A script that process a list of networks and find networks that are not created in the Meraki dashboard.
+A script that will process a list of networks and find networks that are not created in the Meraki dashboard.
 
 ## Setup
 
